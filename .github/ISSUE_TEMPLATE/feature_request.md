@@ -22,7 +22,7 @@ Also note that the Digital Catapult team has finite resources so it's unlikely t
 
 ## Describe alternatives you've considered
 
-<!-- A clear and concise description of the alternative solutions you've considered. Be sure to explain why VITALam's existing customisability isn't suitable for this feature. -->
+<!-- A clear and concise description of the alternative solutions you've considered. Be sure to explain why the existing customisability isn't suitable for this feature. -->
 
 ## Additional context
 
