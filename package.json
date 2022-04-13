@@ -1,7 +1,7 @@
 {
   "name": "@digicatapult/openapi-service-template",
   "version": "0.0.1",
-  "description": "Service for VITALam",
+  "description": "Insert repo description",
   "main": "app/index.js",
   "scripts": {
     "test": "NODE_ENV=test mocha --config ./test/mocharc.js ./test",
@@ -20,7 +20,7 @@
     "npm": "8.x.x"
   },
   "keywords": [
-    "VITALam"
+    "OpenAPI"
   ],
   "author": "Digital Catapult",
   "license": "Apache-2.0",
