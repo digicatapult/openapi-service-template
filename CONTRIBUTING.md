@@ -24,7 +24,7 @@ The following is a set of guidelines for contributing to our packages, which are
 
 ## Code of Conduct
 
-This project and all those participating in it are governed by the [Digital Catapult's Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behaviour to [opensource@digicatapult.org.uk](mailto:opensource@digicatapult.org.uk?subject=VITALam).
+This project and all those participating in it are governed by the [Digital Catapult's Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behaviour to [opensource@digicatapult.org.uk](mailto:opensource@digicatapult.org.uk?subject=openapi-service-template).
 
 ## FAQs
 
