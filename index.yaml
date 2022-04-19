@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  openapi-service-template:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-04-19T13:26:43.510019565Z"
+    description: A Helm chart for openapi-service-template
+    digest: 083054ffd933278b70d03145c8d5df58fd38c43b037d2421ccc805d9f77c7cd6
+    maintainers:
+    - email: opensource@digicatapult.org.uk
+      name: digicatapult
+      url: www.digicatapult.org.uk
+    name: openapi-service-template
+    type: application
+    urls:
+    - https://digicatapult.github.io/openapi-service-template/openapi-service-template-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-04-19T13:26:43.508823596Z"
